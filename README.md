@@ -16,7 +16,7 @@ Questions:
 
 
 
-Full front view- 'https://github.com/efhart4/Porch-Repair/blob/main/Full front view.jpeg'
+Full front view- "https://github.com/efhart4/Porch-Repair/blob/main/Full front view.jpeg"
 
 right beam and footing - https://github.com/efhart4/Porch-Repair/blob/main/6 detail.jpeg
 
