@@ -1,4 +1,4 @@
-I’m planning to stabilize my porch because of poor construction and rot. I’ve attached sketches showing the [existing layout] (https://github.com/efhart4/Porch-Repair/blob/main/Technical%20Drawing.png), as well as some photos of the current condition [Full front view] (https://github.com/efhart4/Porch-Repair/blob/main/Full%20front%20view.jpeg).
+I’m planning to stabilize my porch because of poor construction and rot. I’ve attached sketches showing the [existing layout](https://github.com/efhart4/Porch-Repair/blob/main/Technical%20Drawing.png), as well as some photos of the current condition [Full front view] (https://github.com/efhart4/Porch-Repair/blob/main/Full%20front%20view.jpeg).
 
 Problems:
 1.	Rim joist is rotten.
