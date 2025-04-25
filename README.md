@@ -1,18 +1,18 @@
-I’m planning to stabilize and improve the structure of this section of my house (porch/sunroom area). I’ve attached sketches showing the (existing layout), as well as some photos of the current condition (Full front view).
+I’m planning to stabilize my porch because of poor construction and rot. I’ve attached sketches showing the (existing layout), as well as some photos of the current condition (Full front view).
 
 Problems:
-1.	Rim joist is rotten. See (Full front view).
-2.	Far right footing sits under the rim joist instead of the far-right beam. See (right beam and footing).
+1.	Rim joist is rotten.
+2.	Far right footing sits under the rim joist instead of the far-right beam. See (right brick stack).
 
 Proposed Improvements:
-1.	Replace the existing footings (brick posts) with cement footings and posts.
+1.	Replace the existing footings with cement footings and posts.
 2.	Install a new rim joist.
-3.	Add new stairs. (Existing Stairs)
+3.	Add new stairs. 
 
 Questions:
 1.	Should I build a temporary wall inside during the work?
-2.	Should I just jack up the center beam (detail 4 and detail 5 pictures) and the beam on the right side too (right beam and footing)?
-3.	Supports should be every 8 ft, Should I put another support under the 14ft span (in between ledger and beam)? Is the blocking enough (detail 2 and detail 3)?
+2.	Can I just jack up the center beam  and the beam on the right side?
+3.	Supports should be every 8 ft, Should I put another support under the 14ft span? Is the blocking enough ()?
 
 
 
