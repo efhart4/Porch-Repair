@@ -13,4 +13,5 @@ Questions:
 1.	Should I build a temporary wall inside during the work?
 2.	Can I just jack up the two beams? [technical drawing](https://github.com/efhart4/Porch-Repair/blob/main/Technical%20Drawing.png)
 3.	Supports should be every 8 ft, Should I put another support under the 14ft span? Is the [blocking](https://github.com/efhart4/Porch-Repair/blob/main/blocking%20and%20wood%20supports.jpeg) enough?
+    yes, the blocking will be enough for now.
 
