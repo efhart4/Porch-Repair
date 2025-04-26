@@ -1,3 +1,7 @@
+[Schedule](https://docs.google.com/spreadsheets/d/1nt9YlPk3Gd67_hdNKVILt232VgYeejPN/edit?usp=sharing&ouid=103995675790766638004&rtpof=true&sd=true)
+
+
+Overview:
 I’m planning to stabilize my porch because of poor construction and rot. I’ve attached sketches showing the [existing layout](https://github.com/efhart4/Porch-Repair/blob/main/Technical%20Drawing.png), as well as some photos of the current condition [Full front view](https://github.com/efhart4/Porch-Repair/blob/main/Full%20front%20view.jpeg).
 
 Problems:
@@ -22,4 +26,3 @@ Questions:
 
   	A. yes, the blocking will be enough for now.
 
-[Schedule](https://docs.google.com/spreadsheets/d/1nt9YlPk3Gd67_hdNKVILt232VgYeejPN/edit?usp=sharing&ouid=103995675790766638004&rtpof=true&sd=true)
