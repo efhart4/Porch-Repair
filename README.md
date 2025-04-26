@@ -22,3 +22,4 @@ Questions:
 
   	A. yes, the blocking will be enough for now.
 
+[Schedule](https://docs.google.com/spreadsheets/d/1nt9YlPk3Gd67_hdNKVILt232VgYeejPN/edit?usp=sharing&ouid=103995675790766638004&rtpof=true&sd=true)
